@@ -1,4 +1,4 @@
-package binarysearch.algorithms
+package BinarySearch.Algorithms
 
 import kotlin.text.*
 
